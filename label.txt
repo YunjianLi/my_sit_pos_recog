@@ -1,0 +1,6 @@
+bend
+leanbackward
+leanforward
+normal
+sideslantleft
+sideslantright
